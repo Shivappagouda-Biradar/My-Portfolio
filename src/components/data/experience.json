@@ -1,0 +1,40 @@
+[
+  {
+    "id": 1,
+    "role": "Junior Software Engineer",
+    "organisation": "SPM GLobal Technologies PVT LTD",
+    "startDate": "June, 2023",
+    "endDate": "July, 2024",
+    "location": "Bengaluru, India",
+    "experiences": [
+      "Worked on Deal Dox Application"
+    ],
+    "imageSrc": "company/google.png"
+  },
+ 
+  {
+    "id": 2,
+    "role": "Java Full Stack Developer - Trainee",
+    "organisation": "KodNest",
+    "startDate": "Nov, 2022",
+    "endDate": "May, 2023",
+    "location": "Bengluru, India",
+    "experiences": [
+      "Completed 6 Months Java Full Stack Developer training"
+    ],
+    "imageSrc": "company/netflix.png"
+  },
+  
+  {
+    "id": 3,
+    "role": "Web Developer - Intern",
+    "organisation": "Guestovalley Technovation's",
+    "startDate": "Nov, 2022",
+    "endDate": "May, 2023",
+    "location": "Bengluru, India",
+    "experiences": [
+      "Using HTML5, CSS3 and JavaScript I have created Online Shopping E-Commerce Website."
+    ],
+    "imageSrc": "company/netflix.png"
+  }
+]
